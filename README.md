@@ -5,3 +5,9 @@
 
 ## Objective:
 To leverage 7B parameter models like Llama and Falcon to perform at the level of state-of-the-art GPT models (which easily have parameters in the 100 Billions) at the task of identifying presence of confidential information in business reports/excerpts and also reason on why it is considered confidential so that human evaluators can work on fixing the issue(s).
+
+
+## Fine-Tuned Models
+   Fine-Tuned LLaMA-2 7B Model - <a href='https://huggingface.co/Rohit-D/Llama-2-7b-business-report-security-finetune'>Llama-2-7b-business-report-security-finetune</a>\
+   Fine-Tuned Falcon 7B Model - <a href='https://huggingface.co/Rohit-D/falcon-7b-sharded-bf16-finetuned-business-report-security'>
+falcon-7b-sharded-bf16-finetuned-business-report-security</a>
